@@ -46,7 +46,7 @@ ol {
 
 .content {
   display: grid;
-  grid-template-areas: 'result content__details';
+  grid-template-areas: "result content__details";
   align-items: end;
   gap: 30px;
   padding: 133px 30px;
